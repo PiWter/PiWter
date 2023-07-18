@@ -12,11 +12,10 @@ Soy un cactus y criptovagabundo
                                                         Let´s All Love Lain
 
 
-<img src="iwakura-lain.gif" aling="center">
+[![](iwakura-lain.gif)](https://fauux.neocities.org)
 
 Este además es mi perfil de discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/447351141202657290)](https://discord.com/users/447351141202657290)
 
 
-[![](iwakura-lain.gif)](https://fauux.neocities.org)
