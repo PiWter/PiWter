@@ -3,7 +3,7 @@
                                                     ㅤㅤㅤㅤプレゼント ‧ タイム█
 
 
-Buenass soy PiWter. Me gustan muchas cosas relacionadas a la tecnología
+                            Buenass soy PiWter. Me gustan muchas cosas relacionadas a la tecnología
 
 ![](5e3daca379d90895ad98010c44876b06.jpg)
 
