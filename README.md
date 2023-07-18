@@ -3,7 +3,7 @@
                                                     ㅤㅤㅤㅤプレゼント ‧ タイム█
 
 
-Hola soy [![PiWter](https://google.es)]
+Hola soy PiWter
 
 ![](iwakura-lain.gif)
 
