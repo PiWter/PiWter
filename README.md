@@ -12,10 +12,7 @@ Soy un cactus y criptovagabundo
                                                         Let´s All Love Lain
 
 
-<p aling="center">
-    <img src="iwakura-lain.gif">
-</p>
-
+    <img src="iwakura-lain.gif" aling="center">
 
 Este además es mi perfil de discord
 
