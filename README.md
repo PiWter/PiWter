@@ -3,10 +3,16 @@
                                                     ㅤㅤㅤㅤプレゼント ‧ タイム█
 
 
-Hola soy PiWter
+Buenass soy PiWter. Me gustan muchas cosas relacionadas a la tecnología
 
-![](iwakura-lain.gif)
+![](5e3daca379d90895ad98010c44876b06.jpg)
 
-[![osu! Card](https://osu-sig.vercel.app/card?user=PiWter&mode=std&lang=en&blur=6&round_avatar=true&animation=true)](https://osu.ppy.sh/users/20214853)
+Soy un cactus y criptovagabundo
+
+Let´s All Love Lain
+
+[![](iwakura-lain.gif)](https://fauux.neocities.org)
+
+Este además es mi perfil de discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/447351141202657290)](https://discord.com/users/447351141202657290)
