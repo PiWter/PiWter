@@ -1,3 +1,8 @@
+プレゼント ‧ デイ█
+
+ㅤㅤㅤㅤプレゼント ‧ タイム█
+
+
 - 👋 Hi, I’m @PiWter
 - 👀 I’m interested in web developing, hacking, i.a etc
 - 🌱 I’m currently learning python
