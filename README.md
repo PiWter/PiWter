@@ -11,7 +11,7 @@ Soy un cactus y criptovagabundo
 
                                                         Let´s All Love Lain
 
-                                        [![](iwakura-lain.gif)](https://fauux.neocities.org)
+[![](iwakura-lain.gif)](https://fauux.neocities.org)
 
 Este además es mi perfil de discord
 
