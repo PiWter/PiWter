@@ -13,10 +13,13 @@ Soy un cactus y criptovagabundo
 
 
 <p aling="center">
-[![](iwakura-lain.gif)](https://fauux.neocities.org)
+    <img src="iwakura-lain.gif">
 </p>
 
 
 Este además es mi perfil de discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/447351141202657290)](https://discord.com/users/447351141202657290)
+
+
+[![](iwakura-lain.gif)](https://fauux.neocities.org)
