@@ -4,7 +4,7 @@
 - 💞️ I want to create good hacking tools and websites
 - 📒 I'm still learning
 
-![](ai.png)
+![](iwakura-lain.gif)
 
 [![osu! Card](https://osu-sig.vercel.app/card?user=PiWter&mode=std&lang=en&blur=6&round_avatar=true&animation=true)](https://osu.ppy.sh/users/20214853)
 
